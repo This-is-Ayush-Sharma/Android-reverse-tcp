@@ -17,7 +17,7 @@ simple way to hack android totally Automation Done
 - now We are good to go by starting the apache server by the command
 - service apache2 start
 - open terminal and give the andro_hack the executable permission by the command
-- chmod +x andro_hack
+- chmod +x andro_hack.sh
 - and now type to run the script
 - ./andro_hack
 # note run this script as a root user
